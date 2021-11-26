@@ -1,0 +1,2 @@
+# Site-bootstrap
+site boot
